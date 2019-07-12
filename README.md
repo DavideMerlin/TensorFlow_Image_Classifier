@@ -1,0 +1,1 @@
+This classifier uses Google's model Inception to train a Convolutional Neural Network on Darth Vader images and recognize them. It simply uses Transfer Learning, nothing too complex. The goal is to expand the model and make predictions more accurate over time by using different datasets. 
